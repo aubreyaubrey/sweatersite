@@ -1,245 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Curate is a premium portfolio for &lt;strong&gt;Hugo&lt;/strong&gt; on Hugo Curate</title>
+    <title>The Best Sweater on Hugo Curate</title>
     <link>/</link>
-    <description>Recent content in Curate is a premium portfolio for &lt;strong&gt;Hugo&lt;/strong&gt; on Hugo Curate</description>
+    <description>Recent content in The Best Sweater on Hugo Curate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Nov 2023 17:54:55 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Working With Jekyll</title>
-      <link>/blog/2021/07/working-with-jekyll/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Funnel Neck Boxy Fit Boiled Wool Sweater</title>
+      <link>/projects/eileen-fisher-boiled-wool/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/07/working-with-jekyll/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
+      <guid>/projects/eileen-fisher-boiled-wool/</guid>
+      <description>A boiled wool sweater the color of manzanita half price at Nordstrom Rack. My Universe knows me well!
+This sweater is SO cozy yet oddly lightweight. The fabric, described as &amp;ldquo;jersey&amp;rdquo; by the brand, is 100% wool but moves and drapes like cotton. It&amp;rsquo;s wonderful. It&amp;rsquo;s so soft, it feels like you have nothing on, which is my preference, except that I live in the foothills with thirty degree rain so even indoors it&amp;rsquo;s not really an option.</description>
     </item>
     
     <item>
-      <title>Water Works Revitalisation</title>
-      <link>/projects/project-1/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Oversized One-of-a-kind Mohair Wool Sweater</title>
+      <link>/projects/flashbacks-encinitas-giant-mohair/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/projects/project-1/</guid>
-      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
+      <guid>/projects/flashbacks-encinitas-giant-mohair/</guid>
+      <description>I found this gem at Flashbacks in Encinitas years and years ago. Pretty sure I was living at the cabin in Old Town at the time so it had to be somewhere around 2012 or 13. You know what? Everyone still loves this sweater. I don&amp;rsquo;t even wear it if I&amp;rsquo;m not in the mood to be complimented.
+I wish I knew who made this sweater. It&amp;rsquo;s clearly handmade and the maker has amazing taste.</description>
     </item>
     
     <item>
-      <title>What is the Jamstack?</title>
-      <link>/blog/2019/08/what-is-the-jamstack/</link>
-      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Worth it? Why Choose Natural Fiber Sweaters Over Synthetic</title>
+      <link>/blog/2024/01/worth-it-why-choose-natural-fiber-sweaters-over-synthetic/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/08/what-is-the-jamstack/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
+      <guid>/blog/2024/01/worth-it-why-choose-natural-fiber-sweaters-over-synthetic/</guid>
+      <description>What we wear on our bodies has an impact on us. As humans continue to evolve, raise our awareness and heighten our senses, many of us are realizing that the products and clothing we choose to surround ourselves with has a huge impact, not only on our home planet but on our bodies and our minds.
+When I wear a sweater or any piece of clothing that is made of wool, or cotton or any other natural fiber, my skin knows it and my nervous system responds with a feeling of safety and ease.</description>
     </item>
     
     <item>
-      <title>Brutalist Office Building</title>
-      <link>/projects/project-2/</link>
-      <pubDate>Sat, 03 Nov 2018 10:20:00 +0000</pubDate>
+      <title>Where Does Host of the Great British Baking Show, Noel Fielding Get His Amazing Sweaters??</title>
+      <link>/blog/2024/01/where-does-host-of-the-great-british-baking-show-noel-fielding-get-his-amazing-sweaters/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/projects/project-2/</guid>
-      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
-    </item>
-    
-    <item>
-      <title>Cubist Urban Home</title>
-      <link>/projects/project-3/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/project-3/</guid>
-      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
-    </item>
-    
-    <item>
-      <title>Subway</title>
-      <link>/projects/project-4/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/project-4/</guid>
-      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
-    </item>
-    
-    <item>
-      <title>Ideas to help your business grow</title>
-      <link>/blog/2022/03/ideas-to-help-your-business-grow/</link>
-      <pubDate>Fri, 11 Mar 2022 16:49:03 +0000</pubDate>
-      
-      <guid>/blog/2022/03/ideas-to-help-your-business-grow/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>How to make your website page load speed fast</title>
-      <link>/blog/2022/02/how-to-make-your-website-page-load-speed-fast/</link>
-      <pubDate>Sun, 13 Feb 2022 09:49:03 +0000</pubDate>
-      
-      <guid>/blog/2022/02/how-to-make-your-website-page-load-speed-fast/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Building design systems that scale across different teams</title>
-      <link>/blog/2021/07/building-design-systems-that-scale-across-different-teams/</link>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/07/building-design-systems-that-scale-across-different-teams/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Targeting keywords to generate SEO traffic</title>
-      <link>/blog/2021/07/targeting-keywords-to-generate-seo-traffic/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/07/targeting-keywords-to-generate-seo-traffic/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>The most important analytics metrics for new business</title>
-      <link>/blog/2021/02/the-most-important-analytics-metrics-for-new-business/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021/02/the-most-important-analytics-metrics-for-new-business/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Reaching your audience with the right content strategy</title>
-      <link>/blog/2020/09/reaching-your-audience-with-the-right-content-strategy/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/09/reaching-your-audience-with-the-right-content-strategy/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Using liquid templates</title>
-      <link>/blog/2020/08/using-liquid-templates/</link>
-      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/08/using-liquid-templates/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Customizing themes with CSS &amp; HTML</title>
-      <link>/blog/2020/06/customizing-themes-with-css-html/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/06/customizing-themes-with-css-html/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Creative ideas to improve your writing</title>
-      <link>/blog/2020/02/creative-ideas-to-improve-your-writing/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/02/creative-ideas-to-improve-your-writing/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Learn how to market your next startup</title>
-      <link>/blog/2020/01/learn-how-to-market-your-next-startup/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/01/learn-how-to-market-your-next-startup/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Building websites with the Jamstack</title>
-      <link>/blog/2019/12/building-websites-with-the-jamstack/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/12/building-websites-with-the-jamstack/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Security first with static websites</title>
-      <link>/blog/2019/11/security-first-with-static-websites/</link>
-      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/11/security-first-with-static-websites/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Writing With Markdown</title>
-      <link>/blog/2019/02/writing-with-markdown/</link>
-      <pubDate>Sun, 03 Feb 2019 13:06:00 +0000</pubDate>
-      
-      <guid>/blog/2019/02/writing-with-markdown/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Designing Your Brand</title>
-      <link>/blog/2018/12/designing-your-brand/</link>
-      <pubDate>Thu, 20 Dec 2018 11:02:00 +0000</pubDate>
-      
-      <guid>/blog/2018/12/designing-your-brand/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>/about/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Creating Modern Websites Web design encompasses many different skills and disciplines in the production and maintenance of websites.
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
-What is Web Design? User experience is about how a user interacts with, and experiences, a particular product, system or service.</description>
-    </item>
-    
-    <item>
-      <title>Optimizing Your Website</title>
-      <link>/blog/2018/11/optimizing-your-website/</link>
-      <pubDate>Sat, 03 Nov 2018 10:20:00 +0000</pubDate>
-      
-      <guid>/blog/2018/11/optimizing-your-website/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
-    </item>
-    
-    <item>
-      <title>Hosting Your Static Site</title>
-      <link>/blog/2018/09/hosting-your-static-site/</link>
-      <pubDate>Thu, 13 Sep 2018 05:22:42 +0000</pubDate>
-      
-      <guid>/blog/2018/09/hosting-your-static-site/</guid>
-      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.</description>
+      <guid>/blog/2024/01/where-does-host-of-the-great-british-baking-show-noel-fielding-get-his-amazing-sweaters/</guid>
+      <description>Every time I watch the Great British Baking Show I want to know where the heck Noel Fielding gets his amazing clothes, especially his sweaters. And I just realized that everyone else wants to know too! There&amp;rsquo;s an entire instagram account devoted to his wardrobe. I was delighted to find some gorgeous merino in the mix. Here are some of the brands making Noel&amp;rsquo;s cool sweaters.
+Wah Wah This Australian brand is truly niche – turning punk album artwork into wearable art with fine merino wool and unforgettable designs.</description>
     </item>
     
     <item>
@@ -249,6 +54,15 @@ Since the initial description of Markdown contained ambiguities and unanswered q
       
       <guid>/contact/success/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The world today is all about choice. We have access to so many options in every aspect of life that most decisions are made by default. It just takes too much time to think about every decision. Things like career choice or where to live get some more attention but when it comes to daily decisions like what to eat or what to wear we often gravitate toward whatever we&amp;rsquo;re used to – whatever is easily available and keeps life flowing.</description>
     </item>
     
     <item>
