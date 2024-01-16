@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hugo Curate</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Hugo Curate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water Works Revitalisation</title>
+      <link>/projects/project-1/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project-1/</guid>
+      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
+    </item>
+    
+    <item>
+      <title>Brutalist Office Building</title>
+      <link>/projects/project-2/</link>
+      <pubDate>Sat, 03 Nov 2018 10:20:00 +0000</pubDate>
+      
+      <guid>/projects/project-2/</guid>
+      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
+    </item>
+    
+    <item>
+      <title>Cubist Urban Home</title>
+      <link>/projects/project-3/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project-3/</guid>
+      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
+    </item>
+    
+    <item>
+      <title>Subway</title>
+      <link>/projects/project-4/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project-4/</guid>
+      <description>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication.</description>
+    </item>
+    
+  </channel>
+</rss>

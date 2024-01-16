@@ -1,0 +1,25 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-8">
+                {{ partial "framework/sections/heading/heading.html" (dict "title" .Title "description" .Description "image" .Params.image ) }}
+                </div>
+            </div>  
+        </div>
+    </div>
+    <div class="section pt-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="content">{{ .Content }}</div>
+                </div>
+            </div>
+        </div>
+    </div>                
+    
+{{ end }}

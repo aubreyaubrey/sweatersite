@@ -1,0 +1,51 @@
+{{ $icon:= .icon }}
+{{ $fa_icon:= .fa_icon }}
+{{ $style:= .style }}
+{{ $thumbnail_size:= .thumbnail_size }}
+{{ $params:= .page.Params }}
+{{ $url:= .page.RelPermalink }}
+{{ $title:= .page.Title }}
+
+<div class="summary summary-project summary-{{ $style }} {{ if $params.thumbnail }}summary-has-thumbnail{{ end }} {{ if and $icon $fa_icon }}summary-has-icon{{ end }}">
+
+  {{ with $params.thumbnail }}
+    <div class="summary-thumbnail {{ if $thumbnail_size }}summary-thumbnail-{{ $thumbnail_size }}{{ end }}">
+      <a href="{{ $url }}"><img alt="{{ $title }}" src="{{ . | relURL }}"/></a>
+    </div>
+  {{ end }}
+  {{ with $params.icon }}
+        <div class="summary-icon">
+            <img width="24" height="24" alt="icon" src="{{ . | relURL }}"/>
+        </div>
+        {{ end }}    
+  <div class="summary-content">
+    <div class="summary-title">
+      <h2>
+        <a href="{{ $url }}">{{ $title }}</a>
+      </h2>
+    </div>
+    {{ with $params.brand}}  
+      <span class="summary-brand">
+        {{ . }}
+      </span>
+    {{ end }}
+    {{ with $params.description}}  
+      <div class="summary-description">
+        <p>{{ . }}</p>
+      </div>
+    {{ end }}
+    {{ with $params.fa_icon }}
+        <div class="summary-range">
+            <i class="{{ $params.fa_icon }}"></i> <span>{{ $params.range }}</span>
+        </div>
+    {{ end }} 
+    {{ with $params.categories }}
+        <div class="summary-categories">
+            {{ range $params.categories }}
+                <a class="summary-category" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}     
+  </div>
+</div>
+
