@@ -102,12 +102,12 @@ params:
 
   newsletter:
     mailchimp:
-      form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
+      form_action_url: https://app.us10.list-manage.com/subscribe/post?u=ef6084ef49869d2dbbeb02008&amp;id=3f2696fde5
       form_title: "Share in the sweater wealth! Subscribe to our newsletter >"
 
   contact_form:
-    use_netlify_form: false
-    use_formspree_form: true
+    use_netlify_form: true
+    use_formspree_form: false
     formspree_endpoint: https://formspree.io/f/moqyklqv
     netlify_form_name: "contact"
 
@@ -117,13 +117,13 @@ params:
 
   menu:
     show_dropdown_items_in_mobile_menu: false
-    show_social_media_in_mobile_menu: true
+    show_social_media_in_mobile_menu: fales
 
   footer:
     enable_footer: true # show/hide the entire footer
     footer_title: "The Best Sweater"
     footer_description: "A curated collection of awesome sweaters in every price range."
-    enable_social_media_links: true
+    enable_social_media_links: false
     enable_languages: false
     enable_copyright: false
     enable_menu_footer_primary: true
