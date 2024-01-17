@@ -1,5 +1,5 @@
 ---
-title: "Where Does Host of the Great British Baking Show, Noel Fielding Get His Amazing Sweaters??"
+title: "Where Does Host of the Great British Baking Show, Noel Fielding, Get His Amazing Sweaters??"
 date: 2024-01-11
 authors: ["Aubrey Coon"]
 categories: ["As Seen on TV"]
