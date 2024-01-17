@@ -89,7 +89,7 @@ params:
 
   analytics:
     google_analytics_id: G-V6VK4L125N
-    gtm_id: "" # GTM-XXXXXXXX
+    gtm_id: G-V6VK4L125N
     plausible_data_domain: "" # example: mywebsite.com
     umami_data_website_id: "" # example: "ddd14336-5fb0-4cdd-8f32-e1bfa906cc2b"
     umami_src: "" # "https://analytics.eu.umami.is/script.js"
