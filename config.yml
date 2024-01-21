@@ -84,7 +84,7 @@ params:
     show_dark_mode_toggle_in_mobile_menu: true
 
   cookie_banner:
-    enabled: false
+    enabled: true
     show_manage_cookies_at_bottom: true
 
   analytics:

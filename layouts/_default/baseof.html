@@ -19,6 +19,8 @@
     {{ partial "framework/head/fonts.html" . }}
 
     {{ block "header_css" . }}{{ end }}
+    {{ partial "framework/analytics/google-analytics.html" . }}
+
 </head>
 
 <body class='page {{ block "body_classes" . }}{{ end }}'>
@@ -46,7 +48,6 @@
 
     {{ partial "framework/cookies/cookie-consent.html" . }}
 
-    {{ partial "framework/analytics/google-analytics.html" . }}
     {{ partial "framework/analytics/plausible-analytics.html" . }}
     {{ partial "framework/analytics/umami-analytics.html" . }}
     {{ partial "framework/analytics/google-tag-manager.html" . }}
