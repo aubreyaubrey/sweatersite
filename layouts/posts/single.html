@@ -26,8 +26,10 @@
 
         <div class="content">{{ .Content }}</div>
 
+        <hr>
+
         {{ with .Params.categories }}
-        <div class="categories">
+        <div class="categories">Tagged:
           {{ partial "framework/components/categories-badges.html" (dict "categories" . ) }}
         </div>
         {{ end }}
