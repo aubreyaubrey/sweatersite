@@ -1,22 +1,24 @@
 ---
-draft: true
 layout: project-left
 title: "The Perfect Retro Fit Pullover"
 description: "A sweater that doubles as a shirt, for casual gatherings, summer bonfires or the perfect layer to shed right around eleven AM."
 date: 2024-01-06
 weight: 3
-thumbnail: "images/gen/projects/project-3-1-thumbnail.webp"
-icon: "images/icons/icons8-signature-50.png"
-image: "images/gen/projects/project-3-1.webp"
+thumbnail: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded-tn.jpg"
+icon: ""
+image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded.jpg"
 fa_icon: "fa-solid fa-tag"
 range: "$0 - $99"
 brand: "Jungmaven"
 categories: ["Natural Fiber Blend"]
 role: "Building Designer"
 gallery:
-  - image: "images/gen/projects/project-3-1.webp"
-  - image: "images/gen/projects/project-3-4.webp"
-  - image: "images/gen/projects/project-3-7.webp"
+  - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded.jpg"
+  - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-1.jpg"
+  - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-2.jpg"
+  - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-neckline.jpg"
+  - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-cuff.jpg"
+
 ---
 
 The <strong>Crux Cropped Sweatshirt</strong> from Jungmaven has a classic shape and fit. Not oversized, unless you size up, this sweater is durable, medium thickness and doesn't wear out with washing. 

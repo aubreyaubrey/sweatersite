@@ -12303,7 +12303,7 @@ img {
   overflow: hidden;
   position: relative; }
   .summary .summary-thumbnail {
-    max-height: 300px;
+    max-height: none;
     overflow: hidden; }
     .summary .summary-thumbnail a {
       display: block; }
@@ -21337,9 +21337,9 @@ body {
     .summary.summary-project .summary-thumbnail a {
       display: block; }
     .summary.summary-project .summary-thumbnail img {
-      aspect-ratio: 16 / 9;
+      aspect-ratio: 1 / 1;
       width: 100%;
-      object-fit: contain; }
+      object-fit: fill; }
       .summary.summary-project .summary-thumbnail img:hover {
         opacity: 0.8; }
     @media (min-width: 768px) {

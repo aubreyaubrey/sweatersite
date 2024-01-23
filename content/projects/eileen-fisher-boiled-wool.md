@@ -4,13 +4,14 @@ title: "Funnel Neck Boxy Fit Boiled Wool Sweater"
 description: "This sweater is SO cozy yet oddly lightweight. The fabric is 100% wool but moves and drapes like a jersey."
 date: 2024-01-10
 weight: 1
-thumbnail: "images/gen/projects/boiled-wool-with-coat.jpg"
-image: "images/gen/projects/boiled-wool-with-coat.jpg"
+thumbnail: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-folded-tn.jpg"
+image: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-funnel-neck-folded.jpg"
 fa_icon: "fa-solid fa-tag"
 range: "$100 - $199"
 categories: ["100% Wool"]
 brand: "Eileen Fisher"
 gallery:
+  - image: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-folded.jpg"
   - image: "images/gen/projects/boiled-wool-with-coat.jpg"
   - image: "images/gen/projects/boiled-wool-over-chair.jpg"
   - image: "images/gen/projects/boiled-wool-mirror.jpg"

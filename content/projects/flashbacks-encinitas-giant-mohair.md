@@ -4,18 +4,18 @@ title: "Oversized One-of-a-kind Mohair Wool Sweater"
 description: "If you wear a giant fuzzy sweater anywhere in the world, you will be complimented."
 date: 2024-01-11
 weight: 2
-thumbnail: "images/gen/projects/housecoat-pocket.jpg"
-image: "images/gen/projects/housecoat-pocket.jpg"
+thumbnail: "images/gen/projects/mohair-housecoat/mohair-housecoat-folded-tn.jpg"
+image: "images/gen/projects/mohair-housecoat/mohair-housecoat-folded.jpg"
 fa_icon: "fa-solid fa-tag"
 range: "$0 - $99"
 categories: ["100% Wool"]
 brand: "Flashbacks Encinitas"
 gallery:
-  - image: "images/gen/projects/housecoat-pocket.jpg"
-  - image: "images/gen/projects/housecoat-full-length.jpg"
-  - image: "images/gen/projects/housecoat-shoulders.jpg"
-  - image: "images/gen/projects/housecoat-back.jpg"
-  - image: "images/gen/projects/housecoat-on-hanger.jpg"
+  - image: "images/gen/projects/mohair-housecoat/mohair-housecoat-folded.jpg"
+  - image: "images/gen/projects/mohair-housecoat/housecoat-full-length.jpg"
+  - image: "images/gen/projects/mohair-housecoat/housecoat-shoulders.jpg"
+  - image: "images/gen/projects/mohair-housecoat/housecoat-back.jpg"
+  - image: "images/gen/projects/mohair-housecoat/housecoat-on-hanger.jpg"
 ---
 
 I found this gem at Flashbacks in Encinitas years and years ago. Pretty sure I was living at the cabin in Old Town at the time so it had to be somewhere around 2012 or 13. You know what? Everyone still loves this sweater. I don't even wear it if I'm not in the mood to be complimented. 

@@ -122,11 +122,11 @@ params:
   footer:
     enable_footer: true # show/hide the entire footer
     footer_title: "The Best Sweater"
-    footer_description: "A curated collection of awesome sweaters in every price range."
+    footer_description: "Find your new favorite."
     enable_social_media_links: false
     enable_languages: false
     enable_copyright: false
-    enable_menu_footer_primary: true
+    enable_menu_footer_primary: false
     enable_menu_footer_secondary: true
     enable_menu_footer_tertiary: false
     footer_primary_menu_title: "Featured"
