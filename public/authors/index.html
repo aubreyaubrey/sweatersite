@@ -460,149 +460,13 @@
     
 
 
-<link rel="stylesheet" href="/css/cookieconsent.css">
-
-
-<script type="text/javascript" src="/js/cookieConsentModeBundle.85e254496474a23adf0e3000a780a2231b010e96351d83bbbd9358c50434965c.js"></script>
-
-
-<script>
-    window.addEventListener('load', function () {
-
-        
-        var cc = initCookieConsent();
-
-        
-        cc.run({
-            current_lang: 'en',
-            autoclear_cookies: true,                   
-            page_scripts: true,                        
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-            onFirstAction: function (user_preferences, cookie) {
-                
-            },
-
-            onAccept: function (cookie) {
-                
-            },
-
-            onChange: function (cookie, changed_preferences) { 
-                
-                if (!cc.allowedCategory('analytics')) { 
-                    typeof gtag === 'function' && gtag('consent', 'update', { 
-                        'analytics_storage': 'denied' 
-                    }); 
-                } 
-            }, 
-
-            languages: {
-                'en': {
-                    consent_modal: {
-                        title: 'We use cookies!',
-                        description: 'Hi, this website uses essential cookies to ensure its proper operation and tracking cookies to understand how you interact with it. The latter will be set only after consent. <button type="button" data-cc="c-settings" class="cc-link">Let me choose</button>',
-                        primary_btn: {
-                            text: 'Accept all',
-                            role: 'accept_all'              
-                        },
-                        secondary_btn: {
-                            text: 'Reject all',
-                            role: 'accept_necessary'        
-                        }
-                    },
-                    settings_modal: {
-                        title: 'Cookie preferences',
-                        save_settings_btn: 'Save settings',
-                        accept_all_btn: 'Accept all',
-                        reject_all_btn: 'Reject all',
-                        close_btn_label: 'Close',
-                        
-                        cookie_table_headers: [
-                            { col1: 'Name' },
-                            { col2: 'Domain' },
-                            { col3: 'Expiration' },
-                            { col4: 'Description' }
-                        ],
-                        blocks: [
-                            {
-                                title: 'Cookie usage 📢',
-                                description: 'I use cookies to ensure the basic functionalities of the website and to enhance your online experience. You can choose for each category to opt-in/out whenever you want. For more details relative to cookies and other sensitive data, please read the full <a href="#" class="cc-link">privacy policy</a>.'
-                            }, {
-                                title: 'Strictly necessary cookies',
-                                description: 'These cookies are essential for the proper functioning of my website. Without these cookies, the website would not work properly',
-                                toggle: {
-                                    value: 'necessary',
-                                    enabled: true,
-                                    readonly: true          
-                                }
-                            }, {
-                                title: 'Performance and Analytics cookies',
-                                description: 'These cookies allow the website to remember the choices you have made in the past',
-                                toggle: {
-                                    value: 'analytics',     
-                                    enabled: false,
-                                    readonly: false
-                                },
-                                cookie_table: [             
-                                    {
-                                        col1: '^_ga',       
-                                        col2: 'google.com',
-                                        col3: '2 years',
-                                        col4: 'description ...',
-                                        is_regex: true
-                                    },
-                                    {
-                                        col1: '_gid',
-                                        col2: 'google.com',
-                                        col3: '1 day',
-                                        col4: 'description ...',
-                                    }
-                                ]
-                            },
-                            {
-                                title: 'More information',
-                                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="#yourcontactpage">contact us</a>.',
-                            }
-                        ]
-                    }
-                }
-            }
-        });
-    });
-</script>
-
 
     
   
   
-    
-  
 
   
 
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-V6VK4L125N" false></script>
-      <script false>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-V6VK4L125N');
-      </script>
     
 
     
@@ -619,8 +483,6 @@
 
     
   
-  
-    
   
 
   
