@@ -52,9 +52,9 @@ params:
   logo:
     logo_text: "Hugo Curate"
     logo_image_desktop: images/logo/logo.svg
-    logo_image_mobile: images/logo/logo-mobile.png
+    logo_image_mobile: images/logo/logo.svg
     logo_image_desktop_invert: images/logo/logo.svg
-    logo_image_mobile_invert: images/logo/logo-invert-mobile.png
+    logo_image_mobile_invert: images/logo/logo.svg
     logo_image_desktop_height: "150px"
     logo_image_desktop_width: "150px"
     logo_image_mobile_height: "28px"
