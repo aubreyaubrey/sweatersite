@@ -4,7 +4,7 @@ title: "The Perfect Retro Fit Pullover"
 description: "A sweater that doubles as a shirt, for casual gatherings, summer bonfires or the perfect layer to shed right around eleven AM."
 date: 2024-01-06
 weight: 3
-thumbnail: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded-tn.jpg"
+thumbnail: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-2-tn.jpg"
 icon: ""
 image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded.jpg"
 fa_icon: "fa-solid fa-tag"
@@ -33,8 +33,8 @@ Jungmaven has a ton of great colors. I have the [Crux Cropped Sweatshirt](https:
 
 ### Shop Online
 
-<i class="fa-solid fa-arrow-right"></i> [Crux Cropped Sweatshirt](https://jungmaven.com/products/hemp-sweatshirt-crux-cropped-womens)
+<i class="fa-solid fa-arrow-right"></i> <a href="https://jungmaven.com/products/hemp-sweatshirt-crux-cropped-womens">Crux Cropped Sweatshirt</a>
 
-<i class="fa-solid fa-arrow-right"></i> [All Jungmaven Women's Sweatshirts](https://jungmaven.com/collections/womens-hemp-sweatshirts)
+<i class="fa-solid fa-arrow-right"></i> <a href="https://jungmaven.com/collections/womens-hemp-sweatshirts" target="_blank">All Jungmaven Women's Sweatshirts</a>
 
-<i class="fa-solid fa-arrow-right"></i> [All Jungmaven](https://jungmaven.com)
+<i class="fa-solid fa-arrow-right"></i> <a href="https://jungmaven.com" target="_blank">All Jungmaven</a>

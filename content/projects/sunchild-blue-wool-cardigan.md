@@ -1,22 +1,21 @@
 ---
-draft: true
 layout: project-left
-title: "Royal Blue and Teal Handmade Vintage Button-up Sweater"
-description: "Not an earth tone!"
+title: "Sunchild Blue Wool Cardigan"
+description: "A handmade gem in royal blue and teal."
 date: 2024-01-11
 weight: 4
 gallery_limit: 4
 permalink: /projects/project-4
-thumbnail: "images/gen/projects/blue-button-up-sweater-open.jpg"
+thumbnail: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-mirror-side-view-tn.jpg"
 image: "images/gen/projects/project-4-1.webp"
 fa_icon: "fa-solid fa-tag"
 range: "$0 - $99"
-brand: "Unknown Knitting Star"
+brand: "Sunchild's Parlour Grass Valley"
 categories: ["100% Wool"]
 gallery:
-  - image: "images/gen/projects/blue-button-up-full-length.jpg"
-  - image: "images/gen/projects/blue-button-up-sweater-on-hanger.jpg"
-  - image: "images/gen/projects/blue-button-up-sweater-sleeve.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-mirror-side-view.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-mirror-front-view.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-close-up-buttons.jpg"
 ---
 
 The color of deep ocean swimming, this sweater is a vibrant mix of royal blue and teal with cornflower blue buttons. In a sea of earth tones, this sweater doesn't mind choosing a saturated spot on the color wheel. Honestly, don't we all have enough beige sweaters at this point?
@@ -27,6 +26,10 @@ This sweater is from a time when clothes fit people. Or it was made recently and
 
 ### Shop in Real Life
 
-<i class="fa-solid fa-arrow-right"></i> [Sunchild's Parlour](https://breedelsordo.com/flashbacks/) 
+<i class="fa-solid fa-arrow-right"></i> <a href="https://www.sunchildsparlour.com" target="_blank">Sunchild's Parlour</a>
+
+### Shop Online
+
+Know of any brands or makers creating a style like this? Let me know!  
 
 

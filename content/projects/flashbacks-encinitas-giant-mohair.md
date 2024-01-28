@@ -28,4 +28,4 @@ Any sweater fans out there know of a similar style of sweater that is being prod
 
 ### Shop in Real Life
 
-<i class="fa-solid fa-arrow-right"></i> [Flashbacks in Encinitas](https://breedelsordo.com/flashbacks/)
+<i class="fa-solid fa-arrow-right"></i> <a href="https://breedelsordo.com/flashbacks/" target="_blank">Flashbacks in Encinitas</a>
