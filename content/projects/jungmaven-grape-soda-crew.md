@@ -3,7 +3,7 @@ layout: project-left
 title: "The Perfect Retro Fit Pullover"
 description: "A sweater that doubles as a shirt, for casual gatherings, summer bonfires or the perfect layer to shed right around eleven AM."
 date: 2024-01-06
-weight: 3
+weight: 4
 thumbnail: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-2-tn.jpg"
 icon: ""
 image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded.jpg"
