@@ -1,5 +1,5 @@
 ---
-title: "How to Wash and Dry Sweaters by Hand"
+title: "How to Care for Your Knitwear"
 date: 2024-01-29
 authors: ["Aubrey Coon"]
 categories: ["Natural Fibers"]

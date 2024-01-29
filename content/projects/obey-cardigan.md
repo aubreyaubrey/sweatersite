@@ -30,7 +30,7 @@ The Obey brand doesn't use Fair Trade cotton exclusively. Like many clothing bra
 
 This sweater is a fairly thin knit and will definitely be going in the handwash pile. With a delicate weave like this, it's important to be mindful of too much agitation while washing. 
 
-> Want to take the best care of your sweaters? Here are some tips for washing and drying <a href="/washing-and-drying-sweaters-by-hand">by hand</a>
+> Want to take the best care of your sweaters? Here are some tips for <a href="/blog/2024/01/how-to-care-for-your-knitwear/">caring for natural fiber knitwear</a>.
 
 I think it's common for people to think that opting for natural fibers means earth tones and no stretch. But that's a total misconception. Natural fibers are not just for hippies and boho girls.
 
