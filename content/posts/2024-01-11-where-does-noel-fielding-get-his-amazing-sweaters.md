@@ -2,7 +2,7 @@
 title: "Where Does Host of the Great British Baking Show, Noel Fielding, Get His Amazing Sweaters??"
 date: 2024-01-11
 authors: ["Aubrey Coon"]
-categories: ["As Seen on TV"]
+categories: ["As Seen on TV", "Natural Fibers"]
 description: I asked the internet and the internet knew. Here's the distilled version – the natural fiber options.
 thumbnail: ""
 image: ""

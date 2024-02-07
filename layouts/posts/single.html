@@ -28,6 +28,18 @@
 
         <hr>
 
+        by {{ range .Param "authors" }}
+          {{ $name := . }}
+          {{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
+          {{ with $.Site.GetPage $path }}
+              <h3>{{ .Params.name }}</h3>
+              <div class="avatar"><img src="/images{{ $path }}.jpg" style="max-width: 60px;"></div>
+              <div class="author-bio-short" style="margin-top:15px;">{{ .Params.bio }}</div>
+        {{ end }}
+        {{ end }}
+
+        <hr>
+
         {{ with .Params.categories }}
         <div class="categories">Tagged:
           {{ partial "framework/components/categories-badges.html" (dict "categories" . ) }}
