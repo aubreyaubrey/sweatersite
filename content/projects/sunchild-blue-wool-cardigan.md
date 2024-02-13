@@ -2,7 +2,7 @@
 layout: project-left
 title: "Sunchild Blue Wool Cardigan"
 description: "A handmade gem in royal blue and teal."
-date: 2024-01-11
+date: 2024-02-05
 weight: 5
 gallery_limit: 4
 permalink: /projects/project-4

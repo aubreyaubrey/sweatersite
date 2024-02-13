@@ -4,15 +4,18 @@ title: "Leopard Print Jacquard Cardigan"
 description: "Cropped length leopard print cardigan produced with fair trade cotton."
 date: 2024-01-28
 weight: 1
-thumbnail: "images/gen/projects/obey-cardigan/obey-cardigan-cropped-at-waist-tn.jpg"
-image: "images/gen/projects/obey-cardigan/obey-cardigan-cropped-at-waist.jpg"
+thumbnail: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-V-closeup-birdseye-the-best-sweater-tn.jpg"
+image: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-V-closeup-birdseye-the-best-sweater.jpg"
 fa_icon: "fa-solid fa-tag"
 range: "$0 - $99"
 categories: ["100% Fair Trade Cotton"]
 brand: "Obey"
 gallery:
-  - image: "images/gen/projects/obey-cardigan/obey-cardigan-cropped-at-waist.jpg"
-  - image: "images/gen/projects/obey-cardigan/obey-cardigan-close-on-V.jpg"
+  - image: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-V-closeup-birdseye-the-best-sweater.jpg"
+  - image: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-V-closeup-angled-the-best-sweater.jpg"
+  - image: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-front-birdseye-the-best-sweater.jpg"
+  - image: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-back-birdseye-the-best-sweater.jpg"
+  - image: "images/gen/projects/obey-cardigan/obey-jacquard-leopard-cardigan-sleeve-closeup-the-best-sweater.jpg"    
   - image: "images/gen/projects/obey-cardigan/obey-cardigan-mirror-full-length.jpg"
 ---
 

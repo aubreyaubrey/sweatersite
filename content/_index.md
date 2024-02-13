@@ -1,6 +1,6 @@
 ---
 title: "The Best Sweater"
-date: 2023-11-02T17:54:55+02:00
+date: 2023-11-02
 description: "Natural Fibers, Cozy Times"
 meta_description: "A curated collection of natural fiber sweaters in every price range."
 meta_title: Find your new favorite sweater on thebestsweater.com.
@@ -10,7 +10,7 @@ projects:
   heading: "" # "Featured"
   sub_heading: "" # "A collection of our recent work"
   limit: 12
-  sort: date # date | weight
+  sort: weight # date | weight
   view_more_button_text: "" # "More Featured"
   view_more_button_link: "" # "/projects"
   columns: 3 # 1 | 2 | 3 | 4

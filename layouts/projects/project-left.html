@@ -44,7 +44,7 @@
         {{ $dateFormat := default "Jan 2, 2006" (index site.Params "date_format") }}
         <div class="project-date">
           <hr>
-          Reviewed <span>{{ .Format $dateFormat }}</span>
+          Posted <span>{{ .Format $dateFormat }}</span>
         </div>
         {{ end }}
 

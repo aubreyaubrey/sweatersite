@@ -2,7 +2,7 @@
 title: "How to Find The Best Sweaters on YOOX"
 date: 2024-01-28
 authors: ["Aubrey Coon"]
-categories: ["Natural Fibers, Online Shopping, Deals"]
+categories: ["Natural Fibers","Online Shopping","Deals"]
 description: Shopping on YOOX is a whole lot of fun and the filters make it more efficient than other sites.
 thumbnail: ""
 image: ""

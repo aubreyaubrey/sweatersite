@@ -2,8 +2,8 @@
 layout: project-left
 title: "Oversized One-of-a-kind Mohair Wool Sweater"
 description: "If you wear a giant fuzzy sweater anywhere in the world, you will be complimented."
-date: 2024-01-11
-weight: 2
+date: 2024-02-03
+weight: 3
 thumbnail: "images/gen/projects/mohair-housecoat/mohair-housecoat-folded-tn.jpg"
 image: "images/gen/projects/mohair-housecoat/mohair-housecoat-folded.jpg"
 fa_icon: "fa-solid fa-tag"

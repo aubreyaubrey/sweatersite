@@ -2,9 +2,9 @@
 layout: project-left
 title: "The Perfect Retro Fit Pullover"
 description: "A sweater that doubles as a shirt, for casual gatherings, summer bonfires or the perfect layer to shed right around eleven AM."
-date: 2024-01-06
+date: 2024-02-04
 weight: 4
-thumbnail: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-2-tn.jpg"
+thumbnail: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-1-tn.jpg"
 icon: ""
 image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded.jpg"
 fa_icon: "fa-solid fa-tag"
@@ -15,7 +15,6 @@ role: "Building Designer"
 gallery:
   - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-folded.jpg"
   - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-1.jpg"
-  - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-mirror-2.jpg"
   - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-neckline.jpg"
   - image: "images/gen/projects/jungmaven-grape-soda-crew/jungmaven-grape-soda-crew-cuff.jpg"
 
