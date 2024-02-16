@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: project-left
 title: "Oversized One-of-a-kind Mohair Wool Sweater"
 description: "If you wear a giant fuzzy sweater anywhere in the world, you will be complimented."

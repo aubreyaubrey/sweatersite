@@ -6,16 +6,17 @@ date: 2024-02-05
 weight: 5
 gallery_limit: 4
 permalink: /projects/project-4
-thumbnail: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-mirror-side-view-tn.jpg"
-image: "images/gen/projects/project-4-1.webp"
+thumbnail: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-full-view-tn.jpg"
+image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-full-view.jpg"
 fa_icon: "fa-solid fa-tag"
 range: "$0 - $99"
 brand: "Sunchild's Parlour Grass Valley"
 categories: ["100% Wool"]
 gallery:
-  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-mirror-side-view.jpg"
-  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-mirror-front-view.jpg"
-  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-close-up-buttons.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-full-view.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-collar-wide-view.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-close-up-knit-pattern.jpg"
+  - image: "images/gen/projects/sunchild-blue-wool-cardigan/sunchild-blue-wool-cardigan-bottom.jpg"
 ---
 
 The color of deep ocean swimming, this sweater is a vibrant mix of royal blue and teal with cornflower blue buttons. In a sea of earth tones, this sweater doesn't mind choosing a saturated spot on the color wheel. Honestly, don't we all have enough beige sweaters at this point?

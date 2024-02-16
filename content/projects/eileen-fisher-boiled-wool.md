@@ -4,16 +4,19 @@ title: "Funnel Neck Boxy Fit Boiled Wool Sweater"
 description: "This sweater is SO cozy yet oddly lightweight. The fabric is 100% wool but moves and drapes like a jersey."
 date: 2024-01-31
 weight: 2
-thumbnail: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-folded-tn.jpg"
-image: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-funnel-neck-folded.jpg"
+thumbnail: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-rumpled-seam-the-best-sweater-tn.jpg"
+image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-rumpled-seam-the-best-sweater.jpg"
 fa_icon: "fa-solid fa-tag"
 range: "$100 - $199"
 categories: ["100% Wool"]
 brand: "Eileen Fisher"
 gallery:
-  - image: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-folded.jpg"
-  - image: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-over-chair.jpg"
-  - image: "images/gen/projects/boiled-wool-funnel-neck/boiled-wool-mirror.jpg"
+  - image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-rumpled-seam-the-best-sweater.jpg"
+  - image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-texture-close-up-the-best-sweater.jpg"
+  - image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-neckline-the-best-sweater.jpg"
+  - image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-bottom-seam-detail-the-best-sweater.jpg"
+  - image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-body-and-partial-sleeve-the-best-sweater.jpg"
+  - image: "images/gen/projects/boiled-wool-funnel-neck/eileen-fisher-boiled-wool-funnel-neck-sweater-in-manzanita-brown-mirror-the-best-sweater.jpg"
 ---
 
 A boiled wool sweater the color of manzanita half price at Nordstrom Rack. My Universe knows me well!
